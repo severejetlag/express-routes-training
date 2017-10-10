@@ -10,8 +10,10 @@
   "author": "GA WDI SF",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "install": "^0.10.1",
+    "npm": "^5.4.2"
   },
   "devDependencies": {},
   "repository": {
